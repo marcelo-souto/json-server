@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "fake server with fake database",
   "main": "server.js",
+  "type": "module",
   "scripts": {
     "start": "node server.js"
   },
