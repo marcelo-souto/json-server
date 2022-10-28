@@ -1,19 +1,46 @@
 {
-  "posts": [
+  "users": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "nome": "Marcelo Souto",
+      "email": "marcelosouto676@gmail.com",
+      "sexo": "masculino",
+      "id": 1
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "nome": "Mauricio Souza",
+      "email": "mauricio15486@gmail.com",
+      "sexo": "masculino",
+      "id": 2
+    },
+    {
+      "nome": "Roberta Cavalcanti",
+      "email": "roberta416854685@gmail.com",
+      "sexo": "feminino",
+      "id": 3
+    },
+    {
+      "nome": "Larissa dos Santos",
+      "email": "larisa454556@gmail.com",
+      "sexo": "feminino",
+      "id": 4
+    },
+    {
+      "nome": "Fernanda Magalhaes",
+      "email": "fernanda4516584@gmail.com",
+      "sexo": "feminino",
+      "id": 5
+    },
+    {
+      "nome": "Lucas Roberto de Souza",
+      "email": "luisroberto186@gmail.com",
+      "sexo": "masculino",
+      "id": 6
+    },
+    {
+      "nome": "Maria de Lurdes Souza",
+      "email": "maria45456@gmail.com",
+      "sexo": "feminino",
+      "id": 7
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
