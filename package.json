@@ -2,7 +2,7 @@
   "name": "fake-server",
   "version": "1.0.0",
   "description": "fake server with fake database",
-  "main": "./json/server.js",
+  "main": "server.js",
   "type": "module",
   "scripts": {
     "start": "node server.js"
