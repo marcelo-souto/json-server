@@ -5,7 +5,6 @@ const middlewares = jsonServer.defaults();
 const port = process.env.PORT || 3200; // <== You can change the port
 
 server.use(middlewares);
-server.use(router);
 server.use(
   jsonServer.rewriter({
     '/:resource/list': '/:resource',
@@ -15,5 +14,6 @@ server.use(
     '/:resource/delete/:id': '/:resource/:id',
   }),
 );
+server.use(router);
 
 server.listen(port);
