@@ -6,7 +6,7 @@
       "imagem": "https://gmedia.playstation.com/is/image/SIEPDC/playstation-5-horizontal-product-shot-01-ps5-en-23nov20?$3200px--t$",
       "descricao": "Jogar no PS5 Não Tem Limites Desfrute do carregamento do seu PS5, extremamente rápido com o SSD de altíssima velocidade, uma imersão mais profunda com suporte a feedback tátil, gatilhos adaptáveis e áudio 3D, além de uma geração inédita de jogos incríveis para PlayStation.",
       "id": 1,
-      "empresaId": 1
+      "vendedorId": 1
     },
     {
       "nome": "Console Playstation 4 Hits 1TB Bundle 18",
@@ -14,7 +14,7 @@
       "imagem": "https://gmedia.playstation.com/is/image/SIEPDC/ps4-slim-image-block-01-en-24jul20?$1600px--t$",
       "descricao": "Os jogos mais incríveis estão no PS4, com 500GB ou 1TB de armazenamento.",
       "id": 2,
-      "empresaId": 1
+      "vendedorId": 1
     },
     {
       "nome": "Controle Dualshock 4 - PlayStation 4",
@@ -22,7 +22,7 @@
       "imagem": "https://gmedia.playstation.com/is/image/SIEPDC/ps4-accessories-ds4-jet-black-screen-01-en-28oct20?$1600px$",
       "descricao": "Tem produtos em oferta nas diversas categorias no site da Amazon, mas se o que você quer é a melhor oportunidade para comprar um Controle Dualshock 4 para o PlayStation 4, essa é a hora certa. Sua experiência com os jogos do Playstation, com certeza, não são as mesmas depois de experimentar o Dualshock 4. O toque, o formato anatômico, a sensibilidade dos controles analógicos e os botões com gatilho oferecem aos jogadores muito conforto.",
       "id": 3,
-      "empresaId": 1
+      "vendedorId": 1
     },
     {
       "nome": "Controle DualSense - Playstation 5",
@@ -30,7 +30,7 @@
       "imagem": "https://gmedia.playstation.com/is/image/SIEPDC/dualsense-controller-image-block-01-ps5-26jun20?$1600px$",
       "descricao": "O controle sem fio DualSense oferece resposta tátil, efeitos de gatilho adaptáveis e um microfone embutido, tudo em um design icônico e confortável.",
       "id": 4,
-      "empresaId": 1
+      "vendedorId": 1
     },
     {
       "nome": "Console Xbox Series X",
@@ -38,7 +38,7 @@
       "imagem": "https://compass-ssl.xbox.com/assets/f0/85/f085c120-d3d5-4424-8b70-eb25deaa326e.png?n=XBX_A-BuyBoxBGImage01-D.png",
       "descricao": "Apresentamos o xbox series x, nosso console mais rápido e poderoso de todos os tempos; jogue milhares de títulos de quatro gerações de consoles- todos os jogos têm melhor aparência e são melhor executados no xbox series x; no coração do series x está a xbox velocity architecture, que combina um ssd personalizado e software integrado para diminuir significativamente os tempos de carregamento dentro e fora do jogo.",
       "id": 5,
-      "empresaId": 2
+      "vendedorId": 2
     },
     {
       "nome": "Console Xbox Series S",
@@ -46,7 +46,7 @@
       "imagem": "https://assets.xboxservices.com/assets/0b/28/0b2854b9-a7e7-47dd-b4f8-a371567854b2.png?n=Xbox-Series-S_Buy-Box_0_01_829x799.png",
       "descricao": "Xbox series s, nosso xbox menor e mais elegante de todos os tempos; com taxas de quadros mais altas, tempos de carregamento mais rápidos e mundos mais ricos e dinâmicos, o xbox series s oferece desempenho e velocidade de última geração em um formato compacto e totalmente digital.",
       "id": 6,
-      "empresaId": 2
+      "vendedorId": 2
     },
     {
       "nome": "Controle sem Fio Xbox ",
@@ -54,17 +54,23 @@
       "imagem": "https://m.media-amazon.com/images/I/712Kf43qj4L._AC_SL1500_.jpg",
       "descricao": "Controle Sem Fio para Xbx Series X/S, com superfícies esculpidas e geometria refinada para maior conforto durante o jogo. Fique no alvo com o grip texturizado e um direcional híbrido",
       "id": 7,
-      "empresaId": 2
+      "vendedorId": 2
     }
   ],
-  "empresas": [
+  "vendedores": [
     {
-      "id": 1,
-      "nome": "Sony Group Corporation"
+      "nome": "José Henrique de Souza",
+      "email": "jose@email.com",
+      "cpf": "11111111111",
+      "senha": "12345678",
+      "id": 1
     },
     {
-      "id": 2,
-      "nome": "Microsoft Corporation"
+      "nome": "Maria Roberta dos Santos",
+      "email": "maria@email.com",
+      "cpf": "22222222222",
+      "senha": "abcdefgh",
+      "id": 2
     }
   ]
 }
