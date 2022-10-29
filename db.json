@@ -49,5 +49,15 @@
       "descricao": "Controle Sem Fio para Xbx Series X/S, com superfícies esculpidas e geometria refinada para maior conforto durante o jogo. Fique no alvo com o grip texturizado e um direcional híbrido",
       "id": 7
     }
+  ],
+  "empresas": [
+    {
+      "id": 1,
+      "nome": "Sony Group Corporation"
+    },
+    {
+      "id": 2,
+      "nome": "Microsoft Corporation"
+    }
   ]
 }
