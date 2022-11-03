@@ -104,5 +104,25 @@
       "password": "12345678",
       "id": 3
     }
+  ],
+  "users": [
+    {
+      "name": "Luiz",
+      "email": "luizdantas@email.com",
+      "password": "5485456565",
+      "id": 1
+    },
+    {
+      "name": "Mauricio",
+      "email": "mauricio@email.com",
+      "password": "548gggd65",
+      "id": 2
+    },
+    {
+      "name": "Luciana Reis",
+      "email": "lucireis44@email.com",
+      "password": "ldo445632",
+      "id": 3
+    }
   ]
 }
