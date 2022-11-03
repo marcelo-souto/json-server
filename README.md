@@ -22,8 +22,8 @@ method         | path                 | response
 'DELETE'       | /:recurso/delete/:id | /:recurso/:id
 
 ## Referências
-[Heroku](https://www.heroku.com/)
-[Dev.to](https://dev.to/youssefzidan/deploying-fake-back-end-server-database-using-json-server-github-and-heroku-1lm4#:~:text=%20Deploying%20Fake%20Back-End%20Server%20%26%20DataBase%20Using,3%20Creating%20the%20server%0ACreate%20account%20on...%20More%20)
-[Digital Ocean](https://www.digitalocean.com/community/tutorials/json-server)
-[Json Server](https://github.com/typicode/json-server)
-[Resilia](https://www.resilia.com.br/)
+- [Heroku](https://www.heroku.com/)
+- [Dev.to](https://dev.to/youssefzidan/deploying-fake-back-end-server-database-using-json-server-github-and-heroku-1lm4#:~:text=%20Deploying%20Fake%20Back-End%20Server%20%26%20DataBase%20Using,3%20Creating%20the%20server%0ACreate%20account%20on...%20More%20)
+- [Digital Ocean](https://www.digitalocean.com/community/tutorials/json-server)
+- [Json Server](https://github.com/typicode/json-server)
+- [Resilia](https://www.resilia.com.br/)
