@@ -78,6 +78,13 @@
       "cpf": "22222222222",
       "password": "abcdefgh",
       "id": 2
+    },
+    {
+      "name": "Marcelo Souto",
+      "email": "marcelosouto676@gmail.com",
+      "cpf": "14562358944",
+      "password": "12345678",
+      "id": 3
     }
   ]
 }
