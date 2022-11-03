@@ -71,6 +71,15 @@
       "credit": true,
       "sellerId": 3,
       "id": 8
+    },
+    {
+      "name": "Console Xbox One 500gb",
+      "price": "R$ 1999.90",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_901343-MLB32726966296_102019-O.webp",
+      "description": "O Xbox One Foi Projetado Para Dar Um Passo À Frente. Temos Investido Pesadamente Em Infraestrutura De Nuvem, Os Controles De Projeto, Kinect E Xbox Smartglass, Para Que Os Desenvolvedores De Jogos Possam Oferecer Novas Experiências Para Roubar Sua Respiração. Assim, Nada Pode Impedir Você Ou Os Seus Jogos.",
+      "credit": true,
+      "sellerId": 3,
+      "id": 9
     }
   ],
   "sellers": [
