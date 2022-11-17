@@ -6,7 +6,7 @@
       "image": "https://gmedia.playstation.com/is/image/SIEPDC/playstation-5-horizontal-product-shot-01-ps5-en-23nov20?$3200px--t$",
       "description": "Jogar no PS5 Não Tem Limites Desfrute do carregamento do seu PS5, extremamente rápido com o SSD de altíssima velocidade, uma imersão mais profunda com suporte a feedback tátil, gatilhos adaptáveis e áudio 3D, além de uma geração inédita de jogos incríveis para PlayStation.",
       "tag": "consoles",
-      "credit": true,
+      "credit": "true",
       "sellerId": 1,
       "id": 1
     },
@@ -16,7 +16,7 @@
       "image": "https://gmedia.playstation.com/is/image/SIEPDC/ps4-slim-image-block-01-en-24jul20?$1600px--t$",
       "description": "Os jogos mais incríveis estão no PS4, com 500GB ou 1TB de armazenamento.",
       "tag": "consoles",
-      "credit": true,
+      "credit": "true",
       "sellerId": 1,
       "id": 2
     },
@@ -26,7 +26,7 @@
       "image": "https://gmedia.playstation.com/is/image/SIEPDC/ps4-accessories-ds4-jet-black-screen-01-en-28oct20?$1600px$",
       "description": "Tem produtos em oferta nas diversas categorias no site da Amazon, mas se o que você quer é a melhor oportunidade para comprar um Controle Dualshock 4 para o PlayStation 4, essa é a hora certa. Sua experiência com os jogos do Playstation, com certeza, não são as mesmas depois de experimentar o Dualshock 4. O toque, o formato anatômico, a sensibilidade dos controles analógicos e os botões com gatilho oferecem aos jogadores muito conforto.",
       "tag": "acessórios",
-      "credit": true,
+      "credit": "true",
       "sellerId": 1,
       "id": 3
     },
@@ -36,7 +36,7 @@
       "image": "https://gmedia.playstation.com/is/image/SIEPDC/dualsense-controller-image-block-01-ps5-26jun20?$1600px$",
       "description": "O controle sem fio DualSense oferece resposta tátil, efeitos de gatilho adaptáveis e um microfone embutido, tudo em um design icônico e confortável.",
       "tag": "acessórios",
-      "credit": false,
+      "credit": "false",
       "sellerId": 1,
       "id": 4
     },
@@ -46,7 +46,7 @@
       "image": "https://compass-ssl.xbox.com/assets/f0/85/f085c120-d3d5-4424-8b70-eb25deaa326e.png?n=XBX_A-BuyBoxBGImage01-D.png",
       "description": "Apresentamos o xbox series x, nosso console mais rápido e poderoso de todos os tempos; jogue milhares de títulos de quatro gerações de consoles- todos os jogos têm melhor aparência e são melhor executados no xbox series x; no coração do series x está a xbox velocity architecture, que combina um ssd personalizado e software integrado para diminuir significativamente os tempos de carregamento dentro e fora do jogo.",
       "tag": "consoles",
-      "credit": false,
+      "credit": "false",
       "sellerId": 2,
       "id": 5
     },
@@ -56,7 +56,7 @@
       "image": "https://assets.xboxservices.com/assets/0b/28/0b2854b9-a7e7-47dd-b4f8-a371567854b2.png?n=Xbox-Series-S_Buy-Box_0_01_829x799.png",
       "description": "Xbox series s, nosso xbox menor e mais elegante de todos os tempos; com taxas de quadros mais altas, tempos de carregamento mais rápidos e mundos mais ricos e dinâmicos, o xbox series s oferece desempenho e velocidade de última geração em um formato compacto e totalmente digital.",
       "tag": "consoles",
-      "credit": true,
+      "credit": "true",
       "sellerId": 2,
       "id": 6
     },
@@ -66,7 +66,7 @@
       "image": "https://m.media-amazon.com/images/I/712Kf43qj4L._AC_SL1500_.jpg",
       "description": "Controle Sem Fio para Xbx Series X/S, com superfícies esculpidas e geometria refinada para maior conforto durante o jogo. Fique no alvo com o grip texturizado e um direcional híbrido",
       "tag": "acessórios",
-      "credit": false,
+      "credit": "false",
       "sellerId": 2,
       "id": 7
     },
@@ -76,7 +76,7 @@
       "image": "https://m.media-amazon.com/images/I/61Gz5KlfPcL._AC_SL1457_.jpg",
       "description": "Adquira o console de videogames que lhe possibilita jogar seus jogos favoritos, onde você quiser e da maneira que preferir. Inclui o console Nintendo Switch e a base do Nintendo Switch pretos e os controles Joy‑Con esquerdo e direito",
       "tag": "consoles",
-      "credit": true,
+      "credit": "true",
       "sellerId": 3,
       "id": 8
     },
@@ -86,7 +86,7 @@
       "image": "https://http2.mlstatic.com/D_NQ_NP_901343-MLB32726966296_102019-O.webp",
       "description": "O Xbox One Foi Projetado Para Dar Um Passo À Frente. Temos Investido Pesadamente Em Infraestrutura De Nuvem, Os Controles De Projeto, Kinect E Xbox Smartglass, Para Que Os Desenvolvedores De Jogos Possam Oferecer Novas Experiências Para Roubar Sua Respiração. Assim, Nada Pode Impedir Você Ou Os Seus Jogos.",
       "tag": "consoles",
-      "credit": true,
+      "credit": "true",
       "sellerId": 3,
       "id": 9
     },
@@ -97,7 +97,7 @@
       "description": "Um vírus letal está se espalhando por Los Angeles e transformando os habitantes em zumbis. Descubra a verdade por trás disso e sobre quem você é depois de levar mordidas, se infectar e se tornar mais que apenas imune.",
       "tag": "games",
       "image": "https://image.api.playstation.com/vulcan/ap/rnd/202208/1012/V6WJkRhfNIQ3ePfAmrLSfGng.png",
-      "credit": true,
+      "credit": "true",
       "sellerId": 1,
       "id": 10
     },
@@ -108,7 +108,7 @@
       "description": "Crie um personagem de sua escolha e mergulhe em um mundo pós-apocalíptico, onde você precisará lutar pela sua sobrevivência a cada minuto.",
       "tag": "games",
       "image": "https://cdn1.epicgames.com/offer/fa702d34a37248ba98fb17f680c085e3/EGS_Fallout3GameoftheYearEdition_BethesdaGameStudios_S2_1200x1600-e2ba392652a1f57c4feb65d6bbd1f963",
-      "credit": true,
+      "credit": "true",
       "sellerId": 3,
       "id": 11
     },
@@ -119,7 +119,7 @@
       "description": "A história começa no em outubro de 2077, com os Estados Unidos na iminência de sofrer um ataque nuclear chinês. Logo após montar seu personagem – masculino ou feminino – em uma casa digna dos anos 50, você descobre que o ataque deixou de ser uma mera suspeita e já é uma cruel realidade.",
       "tag": "games",
       "image": "https://image.api.playstation.com/vulcan/ap/rnd/202009/2500/4GZyUQ1bHTjICP6GCRG7f65n.png",
-      "credit": true,
+      "credit": "true",
       "sellerId": 1,
       "id": 12
     },
@@ -130,7 +130,7 @@
       "description": "Explore terras distantes, enfrente máquinas maiores e mais imponentes, e encontre novas tribos incríveis ao retornar o futuro distante e pós-apocalíptico de Horizon.A terra está morrendo! Tempestades implacáveis e uma praga incontrolável devastam o que sobrou da humanidade enquanto máquinas assustadoras vagam por territórios próximos. A vida na Terra segue rumo à outra extinção, e ninguém sabe o porquê.Cabe a Aloy descobrir os segredos por trás dessas ameaças e restaurar a ordem e equilíbrio ao mundo. Ao longo do caminho, ela reencontrará velhos amigos, forjará alianças com novas facções e descobrirá o legado do passado antigo enquanto tenta se manter um passo à frente de um novo inimigo.",
       "tag": "games",
       "image": "https://image.api.playstation.com/vulcan/ap/rnd/202107/3100/ki0STHGAkIF06Q4AU8Ow4OkV.png",
-      "credit": true,
+      "credit": "true",
       "sellerId": 2,
       "id": 13
     },
@@ -141,7 +141,7 @@
       "description": "O jogo se passa na ilha ficcional de Banoi, na costa da Nova Guiné, local que possui um grande resort tropical. O jogo começa quando os personagens são acordados, de ressaca, na manhã após uma longa festa, por uma voz do sistema de emergência, que os ajuda a fugir do hotel. Lá, eles descobrem que a população da ilha foi infectada por um vírus, que os transformou em zumbis",
       "tag": "games",
       "image": "https://jovemnerd.com.br/wp-content/uploads/Dead-Island-PC.jpg",
-      "credit": true,
+      "credit": "true",
       "sellerId": 2,
       "id": 14
     },
@@ -152,7 +152,7 @@
       "description": "Vagueie por um mundo infectado onde apenas o mais forte sobrevive. Domine suas habilidades de combate para lutar contra monstros de todos os tipos, de humanos a mortos-vivos. Pratique parkour pelos telhados, crie armas e ajude outros sobreviventes enquanto enfrenta seus próprios pesadelos!",
       "tag": "games",
       "image": "https://cdn1.epicgames.com/offer/2c42520d342a46d7a6e0cfa77b4715de/EGS_DyingLightEnhancedEdition_Techland_Editions_S2_1200x1600-dc69fc41d834a6e69090fba163f1edd0",
-      "credit": true,
+      "credit": "true",
       "sellerId": 3,
       "id": 15
     },
@@ -163,7 +163,7 @@
       "description": "Resident Evil 2, chamado no Japão de Biohazard RE:2, é um jogo eletrônico de survival horror desenvolvido e publicado pela Capcom, sendo um remake do jogo original de 1998",
       "tag": "games",
       "image": "https://upload.wikimedia.org/wikipedia/pt/c/c5/RE2_remake_PS4_cover_art.png",
-      "credit": true,
+      "credit": "true",
       "sellerId": 1,
       "id": 16
     },
@@ -174,7 +174,7 @@
       "description": "God of War Ragnarök é um futuro jogo eletrônico de ação-aventura desenvolvido pela Santa Monica Studio e publicado pela Sony Interactive Entertainment. Está programado para ser lançado em 9 de novembro de 2022 para PlayStation 4 e PlayStation 5.",
       "tag": "games",
       "image": "https://image.api.playstation.com/vulcan/ap/rnd/202207/1210/4xJ8XB3bi888QTLZYdl7Oi0s.png",
-      "credit": true,
+      "credit": "true",
       "sellerId": 4,
       "id": 17
     },
@@ -185,7 +185,7 @@
       "description": "Isaac Clarke é um engenheiro comum com a missão de consertar a nave USG Ishimura. Porém, logo descobre que a tripulação foi massacrada e que sua amada parceira, Nicole, está perdida em algum lugar da nave.\nSozinho e apenas com suas habilidades e ferramentas de engenharia à disposição, Isaac corre para encontrar Nicole enquanto desvenda o mistério aterrorizante sobre o que aconteceu a bordo da Ishimura. Preso com criaturas hostis, Isaac encara uma batalha pela sobrevivência.",
       "tag": "games",
       "image": "https://image.api.playstation.com/vulcan/ap/rnd/202209/1918/3WO7sM0ZMk8sz7gPr2DEs6fu.png",
-      "credit": true,
+      "credit": "true",
       "sellerId": 1,
       "id": 18
     }
