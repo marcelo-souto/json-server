@@ -194,28 +194,24 @@
     {
       "name": "Milena Hernandez",
       "email": "milena@email.com",
-      "cpf": "11111111111",
       "password": "12345678",
       "id": 1
     },
     {
       "name": "Yasmin Cristiny",
       "email": "yasmin@email.com",
-      "cpf": "22222222222",
       "password": "12345678",
       "id": 2
     },
     {
       "name": "Marcelo Souto",
       "email": "marcelo@email.com",
-      "cpf": "14562358944",
       "password": "12345678",
       "id": 3
     },
     {
       "name": "Matheus Valviesse",
       "email": "matheus@email.com",
-      "cpf": "23514565855",
       "password": "12345678",
       "id": 4
     }
