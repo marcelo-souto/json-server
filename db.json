@@ -188,6 +188,16 @@
       "credit": "true",
       "sellerId": 1,
       "id": 18
+    },
+    {
+      "name": "Marvel's Spider-Man: Miles Morales",
+      "price": "R$ 99.99",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1423/aA2QvyenlBrwV42v9tkXOvae.jpg",
+      "credit": "true",
+      "tag": "games",
+      "description": "Na mais nova aventura do universo de Marvel's Spider-Man, o adolescente Miles Morales está se adaptando a um novo lar enquanto segue os passos de seu mentor, Peter Parker, como novo Spider-Man.",
+      "sellerId": 7,
+      "id": 19
     }
   ],
   "sellers": [
